@@ -1,0 +1,5 @@
+.venv/
+media/
+parkinsons/__pycache__/
+parkinsons/migrations/
+models/
